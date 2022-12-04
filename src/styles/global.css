@@ -76,7 +76,7 @@
 .alert {
   padding: 20px;
   background-color: #ffd48a; /* Red */
-  color: white;
+  color: black;
   margin-bottom: 15px;
 }
 
@@ -100,7 +100,7 @@
 .alert2 {
   padding: 20px;
   background-color: #ffd48a; /* Red */
-  color: white;
+  color: black;
   margin-bottom: 15px;
 }
 
